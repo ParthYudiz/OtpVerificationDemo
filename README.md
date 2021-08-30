@@ -1,7 +1,7 @@
 # OtpVerificationDemo
 
 # All steps:-
-  	- Step 1:-  Connect your app to firebase.
+  	- Step 1:- Connect your app to firebase.
 	- Step 2:- Enable phone authentication in firebase.
 	- Step 3:- Add Dependencies in your project.
 	- Step 4:- Design your xml related to your project.
